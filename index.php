@@ -1,3 +1,2 @@
-hello,world!!
-All this time...
-good morning
+<php
+phpinfo();
